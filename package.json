@@ -1,0 +1,9 @@
+{
+  "name": "rongwinpressbrake",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RONGWIN static B2B foreign trade website for press brake and metalworking machinery.",
+  "scripts": {
+    "build": "node scripts/verify-static-site.mjs"
+  }
+}

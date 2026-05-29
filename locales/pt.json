@@ -1,0 +1,71 @@
+{
+  "nav": [
+    "Produtos",
+    "Aplicações",
+    "Sobre",
+    "Fábrica",
+    "Projetos",
+    "Blog",
+    "Contato"
+  ],
+  "cta": "Solicitar cotação",
+  "whatsapp": "WhatsApp",
+  "catalog": "Baixar catálogo",
+  "switcher": "Idioma",
+  "pages": {
+    "home": [
+      "RONGWIN | Fabricante de prensas dobradeiras",
+      "A RONGWIN fornece prensas dobradeiras, máquinas de corte a laser e panel benders com OEM/ODM, suporte vitalício e entrega global.",
+      "Fabricante de prensas dobradeiras para projetos globais",
+      "Equipamentos para importadores, empreiteiros, revendedores, distribuidores e EPC."
+    ],
+    "products": [
+      "Produtos | RONGWIN",
+      "Explore prensas dobradeiras, corte a laser, panel benders, ferramentas, peças e soluções personalizadas.",
+      "Máquinas para metalurgia para compradores globais",
+      "Escolha corte, dobra e conformação de um fornecedor exportador."
+    ],
+    "pressBrake": [
+      "Fabricante de prensas dobradeiras | RONGWIN",
+      "Soluções CNC, hidráulicas, elétricas e personalizadas para dobra de chapas.",
+      "Prensa dobradeira para dobra personalizada",
+      "Compare soluções CNC, hidráulicas, elétricas e customizadas."
+    ],
+    "applications": [
+      "Aplicações | RONGWIN",
+      "Máquinas para fabricação metálica, construção, gabinetes, painéis de elevador, móveis e autopeças.",
+      "Aplicações para fabricação de chapas",
+      "Combine dobra, corte e conformação com sua indústria."
+    ],
+    "about": [
+      "Sobre a RONGWIN",
+      "Conheça a RONGWIN, fornecedora de prensas dobradeiras e automação metálica inteligente para B2B.",
+      "Sobre a RONGWIN",
+      "Nanjing RONGWIN Machinery Technology Co., Ltd. atende compradores globais com máquinas, peças e suporte."
+    ],
+    "factory": [
+      "Fábrica | RONGWIN",
+      "Capacidade fabril, controle de qualidade, testes, embalagem e preparação de envio.",
+      "Capacidade fabril e controle de qualidade",
+      "Construa confiança com oficina, montagem, testes, inspeção e entrega."
+    ],
+    "cases": [
+      "Projetos | RONGWIN",
+      "Estrutura de casos por país, aplicação, produto e requisitos do cliente.",
+      "Projetos e casos de clientes",
+      "Mostre experiência real por país, produto, aplicação e resultado."
+    ],
+    "blog": [
+      "Blog | Guias RONGWIN",
+      "Guias sobre escolha de prensa dobradeira, panel bender, ferramentas, manutenção e RFQ.",
+      "Guias de prensas dobradeiras e metalurgia",
+      "Conteúdo SEO e AI-ready para compradores internacionais."
+    ],
+    "contact": [
+      "Contato RONGWIN",
+      "Fale com a RONGWIN para cotações, catálogos, WhatsApp e recomendações de máquinas.",
+      "Fale com a RONGWIN para cotação",
+      "Envie material, espessura, comprimento de dobra, país e requisito."
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+# Local and generated files
+.DS_Store
+Thumbs.db
+node_modules/
+.vercel/
+.vendor/
+deploy-package/
+
+# Large media should be hosted by CDN/video storage before GitHub deployment.
+# GitHub blocks files larger than 100 MB.
+assets/videos/rongwin-press-brake.mp4
+assets/videos/rongwin-press-brake-original.mp4
+!assets/videos/rongwin-press-brake-compressed.mp4

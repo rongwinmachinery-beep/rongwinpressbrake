@@ -1,0 +1,71 @@
+{
+  "nav": [
+    "Productos",
+    "Aplicaciones",
+    "Nosotros",
+    "Fábrica",
+    "Proyectos",
+    "Blog",
+    "Contacto"
+  ],
+  "cta": "Solicitar cotización",
+  "whatsapp": "WhatsApp",
+  "catalog": "Descargar catálogo",
+  "switcher": "Idioma",
+  "pages": {
+    "home": [
+      "RONGWIN | Fabricante de plegadoras",
+      "RONGWIN suministra plegadoras, máquinas de corte láser y panel benders con personalización OEM/ODM, soporte de por vida y entrega global.",
+      "Fabricante de plegadoras para proyectos globales de fabricación metálica",
+      "Equipos para importadores, contratistas, distribuidores y empresas EPC."
+    ],
+    "products": [
+      "Productos | Maquinaria RONGWIN",
+      "Explore plegadoras, corte láser, panel benders, herramientas, repuestos y soluciones personalizadas.",
+      "Maquinaria metalmecánica para compradores globales",
+      "Seleccione equipos de corte, plegado y conformado desde un proveedor exportador."
+    ],
+    "pressBrake": [
+      "Fabricante de plegadoras | RONGWIN",
+      "Soluciones de plegadoras CNC, hidráulicas, eléctricas y personalizadas para chapa metálica.",
+      "Fabricante de plegadoras para plegado personalizado",
+      "Compare soluciones CNC, hidráulicas, eléctricas y personalizadas."
+    ],
+    "applications": [
+      "Aplicaciones | RONGWIN",
+      "Equipos para fabricación metálica, construcción, gabinetes, paneles de elevador, muebles y autopartes.",
+      "Aplicaciones para fabricación de chapa",
+      "Conecte equipos de plegado, corte y panelado con su industria."
+    ],
+    "about": [
+      "Sobre RONGWIN",
+      "Conozca RONGWIN, proveedor de plegadoras y automatización metálica inteligente para compradores B2B.",
+      "Sobre RONGWIN",
+      "Nanjing RONGWIN Machinery Technology Co., Ltd. atiende a compradores globales con maquinaria, repuestos y soporte."
+    ],
+    "factory": [
+      "Fábrica | RONGWIN",
+      "Capacidad de fábrica, control de calidad, pruebas, embalaje y preparación de envío.",
+      "Capacidad de fábrica y control de calidad",
+      "Genere confianza con taller, montaje, pruebas, inspección y entrega."
+    ],
+    "cases": [
+      "Proyectos y casos | RONGWIN",
+      "Estructura de casos por país, aplicación, producto y requisitos del cliente.",
+      "Proyectos y casos de clientes",
+      "Muestre experiencia real con país, producto, aplicación y resultado."
+    ],
+    "blog": [
+      "Blog | Guías RONGWIN",
+      "Guías sobre selección de plegadoras, panel bender, herramientas, mantenimiento y RFQ.",
+      "Guías de plegadoras y metalmecánica",
+      "Contenido SEO y AI-ready para compradores internacionales."
+    ],
+    "contact": [
+      "Contacto RONGWIN",
+      "Contacte con RONGWIN para cotizaciones, catálogos, WhatsApp y recomendaciones.",
+      "Contacte con RONGWIN para una cotización",
+      "Envíe material, espesor, longitud de plegado, país y requisito."
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "nav": [
+    "Products",
+    "Applications",
+    "About",
+    "Factory",
+    "Projects",
+    "Blog",
+    "Contact"
+  ],
+  "cta": "Get a Quote",
+  "whatsapp": "WhatsApp Us",
+  "catalog": "Download Catalog",
+  "switcher": "Language",
+  "pages": {
+    "home": [
+      "RONGWIN | Precision Press Brake Manufacturer",
+      "RONGWIN supplies press brakes, laser cutting machines, and panel benders with OEM/ODM customization, lifetime service support, global delivery, and industrial-grade quality control.",
+      "Precision Press Brake Manufacturer for Global Metal Fabrication Projects",
+      "Press brakes, laser cutting machines, and panel benders for importers, contractors, dealers, distributors, and EPC companies."
+    ],
+    "products": [
+      "Products | RONGWIN Metalworking Machinery",
+      "Explore RONGWIN press brakes, laser cutting machines, panel benders, tooling, spare parts, and custom machinery solutions.",
+      "Metalworking Machinery for Global Buyers",
+      "Choose press brakes, laser cutting machines, panel benders, tooling and spare parts from one export-oriented machinery supplier."
+    ],
+    "pressBrake": [
+      "Press Brake Manufacturer | RONGWIN",
+      "RONGWIN press brake solutions for CNC, hydraulic, electric, and customized sheet metal bending applications.",
+      "Press Brake Manufacturer for Custom Sheet Metal Bending",
+      "Compare CNC, hydraulic, electric and customized press brake solutions for your factory."
+    ],
+    "applications": [
+      "Applications | RONGWIN",
+      "RONGWIN machinery supports metal fabrication, building, cabinets, elevator panels, furniture, and automotive parts.",
+      "Applications for Sheet Metal Fabrication",
+      "Match bending, cutting and panel forming equipment to your industry and workpieces."
+    ],
+    "about": [
+      "About RONGWIN",
+      "Meet RONGWIN, a press brake manufacturer and smart metal automation solution supplier for overseas B2B buyers.",
+      "About RONGWIN",
+      "Nanjing RONGWIN Machinery Technology Co., Ltd. serves global buyers with machinery, spare parts, upgrades and lifetime support."
+    ],
+    "factory": [
+      "Factory Capability | RONGWIN",
+      "Review RONGWIN factory capability, quality control, testing, packing, and shipment preparation.",
+      "Factory Capability and Quality Control",
+      "Build buyer trust with workshop, assembly, testing, inspection, packing and delivery proof."
+    ],
+    "cases": [
+      "Projects and Customer Cases | RONGWIN",
+      "Explore RONGWIN project case structure for countries, applications, products, and customer requirements.",
+      "Projects and Customer Cases",
+      "Use country, product, application and result details to show real project experience."
+    ],
+    "blog": [
+      "Blog | RONGWIN Press Brake Guides",
+      "Read RONGWIN guides for press brake selection, panel bender comparison, tooling, maintenance, and RFQ preparation.",
+      "Press Brake and Metalworking Guides",
+      "SEO and AI-ready buyer guides for overseas machinery sourcing teams."
+    ],
+    "contact": [
+      "Contact RONGWIN",
+      "Contact RONGWIN for press brake quotations, catalogs, WhatsApp support, and machinery recommendations.",
+      "Contact RONGWIN for a Machinery Quote",
+      "Send your material, thickness, bending length, country and product requirement."
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "nav": [
+    "Produits",
+    "Applications",
+    "À propos",
+    "Usine",
+    "Projets",
+    "Blog",
+    "Contact"
+  ],
+  "cta": "Demander un devis",
+  "whatsapp": "WhatsApp",
+  "catalog": "Télécharger le catalogue",
+  "switcher": "Langue",
+  "pages": {
+    "home": [
+      "RONGWIN | Fabricant de presses plieuses",
+      "RONGWIN fournit presses plieuses, machines de découpe laser et panel benders avec personnalisation OEM/ODM, support à vie et livraison mondiale.",
+      "Fabricant de presses plieuses pour projets mondiaux",
+      "Équipements pour importateurs, entrepreneurs, distributeurs et sociétés EPC."
+    ],
+    "products": [
+      "Produits | RONGWIN",
+      "Découvrez presses plieuses, découpe laser, panel benders, outillage, pièces de rechange et solutions personnalisées.",
+      "Machines de tôlerie pour acheteurs internationaux",
+      "Choisissez découpe, pliage et formage auprès d’un fournisseur export."
+    ],
+    "pressBrake": [
+      "Fabricant de presses plieuses | RONGWIN",
+      "Solutions CNC, hydrauliques, électriques et personnalisées pour pliage de tôle.",
+      "Presse plieuse pour pliage personnalisé",
+      "Comparez les solutions CNC, hydrauliques, électriques et personnalisées."
+    ],
+    "applications": [
+      "Applications | RONGWIN",
+      "Machines pour tôlerie, construction, armoires, panneaux d’ascenseur, mobilier et pièces automobiles.",
+      "Applications de fabrication de tôle",
+      "Associez pliage, découpe et formage à votre industrie."
+    ],
+    "about": [
+      "À propos de RONGWIN",
+      "Découvrez RONGWIN, fournisseur de presses plieuses et d’automatisation métal intelligente pour acheteurs B2B.",
+      "À propos de RONGWIN",
+      "Nanjing RONGWIN Machinery Technology Co., Ltd. fournit machines, pièces, modernisation et support."
+    ],
+    "factory": [
+      "Usine | RONGWIN",
+      "Capacités d’usine, contrôle qualité, tests, emballage et préparation d’expédition.",
+      "Capacité d’usine et contrôle qualité",
+      "Créer la confiance avec atelier, assemblage, tests, inspection et livraison."
+    ],
+    "cases": [
+      "Projets | RONGWIN",
+      "Structure de cas par pays, application, produit et exigences client.",
+      "Projets et cas clients",
+      "Montrez l’expérience réelle par pays, produit, application et résultat."
+    ],
+    "blog": [
+      "Blog | Guides RONGWIN",
+      "Guides sur choix de presse plieuse, panel bender, outillage, maintenance et RFQ.",
+      "Guides presses plieuses et tôlerie",
+      "Contenu SEO et AI-ready pour acheteurs internationaux."
+    ],
+    "contact": [
+      "Contact RONGWIN",
+      "Contactez RONGWIN pour devis, catalogues, WhatsApp et recommandations machines.",
+      "Contactez RONGWIN pour un devis",
+      "Envoyez matière, épaisseur, longueur de pliage, pays et besoin produit."
+    ]
+  }
+}

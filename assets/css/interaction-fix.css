@@ -1,0 +1,40 @@
+.button {
+  -webkit-tap-highlight-color: transparent;
+  color: #fff;
+  transition: background-color .16s ease, border-color .16s ease, box-shadow .16s ease;
+}
+
+.button:hover {
+  background: #079747;
+  border-color: #079747;
+  color: #fff;
+}
+
+.button:active {
+  background: #078b42;
+  border-color: #078b42;
+  color: #fff;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.button:focus-visible {
+  box-shadow: 0 0 0 3px rgba(8, 168, 79, .22), 0 0 0 6px rgba(21, 79, 154, .16);
+}
+
+.button.secondary:hover {
+  background: #124685;
+  border-color: #124685;
+}
+
+.button.secondary:active {
+  background: #103d76;
+  border-color: #103d76;
+}
+
+.button.ghost:hover {
+  background: rgba(255, 255, 255, .18);
+  border-color: #fff;
+}

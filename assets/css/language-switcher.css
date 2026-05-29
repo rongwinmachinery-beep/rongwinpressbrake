@@ -1,0 +1,78 @@
+.language-switcher {
+  position: relative;
+  z-index: 80;
+}
+
+.language-current {
+  min-height: 36px;
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: rgba(255, 255, 255, .86);
+  color: var(--ink);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.language-menu {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  display: grid;
+  min-width: 160px;
+  padding: 8px;
+  border: 1px solid rgba(223, 231, 239, .94);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, .92);
+  box-shadow: 0 18px 48px rgba(8, 22, 38, .16);
+  backdrop-filter: blur(14px);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(6px);
+  transition: opacity .16s ease, transform .16s ease, visibility .16s ease;
+}
+
+.language-switcher:hover .language-menu,
+.language-switcher:focus-within .language-menu,
+.language-switcher.is-open .language-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.language-menu a {
+  padding: 9px 10px;
+  border-radius: 6px;
+  color: var(--ink);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.language-menu a:hover {
+  background: var(--soft);
+  color: var(--blue);
+}
+
+[dir="rtl"] body {
+  text-align: right;
+}
+
+[dir="rtl"] .site-header,
+[dir="rtl"] .cta-row,
+[dir="rtl"] .header-actions {
+  direction: rtl;
+}
+
+[dir="rtl"] .language-menu {
+  right: auto;
+  left: 0;
+}
+
+@media (max-width: 900px) {
+  .language-menu {
+    right: auto;
+    left: 0;
+  }
+}
