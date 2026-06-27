@@ -33,7 +33,8 @@
   }
 
   const script = document.currentScript;
-  const configUrl = script ? new URL("../data/social-links.json", script.src).href : "";
+  const assetVersion = script ? new URL(script.src).search : "";
+  const configUrl = script ? new URL(`../data/social-links.json${assetVersion}`, script.src).href : "";
 
   if (location.protocol === "file:" || !configUrl) {
     render(defaults);
