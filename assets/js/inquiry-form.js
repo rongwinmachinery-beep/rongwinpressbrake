@@ -4,7 +4,7 @@
 
   const status = document.getElementById("formStatus");
   const submitButton = form.querySelector("button[type='submit']");
-  const endpoint = form.dataset.endpoint;
+  const endpoint = form.dataset.endpoint || window.RONGWIN_INQUIRY?.endpoint || "";
 
   const validators = {
     name: (value) => value.trim().length >= 2,
@@ -40,9 +40,9 @@
   });
 
   async function submitToEndpoint(data) {
-    if (!endpoint) {
-      await new Promise((resolve) => setTimeout(resolve, 550));
-      return { ok: true, simulated: true };
+    if (window.RONGWIN_INQUIRY?.submit) {
+      await window.RONGWIN_INQUIRY.submit(data, "Detailed Inquiry");
+      return { ok: true };
     }
 
     const response = await fetch(endpoint, {
@@ -87,9 +87,7 @@
         country: data.country || "",
       });
 
-      status.textContent = endpoint
-        ? "Thank you. Your inquiry has been submitted successfully."
-        : "Demo success. Connect a backend endpoint to send this inquiry to email or database.";
+      status.textContent = "Thank you. Your inquiry has been submitted successfully.";
       status.classList.add("success");
       form.reset();
     } catch (error) {
