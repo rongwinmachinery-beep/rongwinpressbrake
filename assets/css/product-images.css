@@ -1,0 +1,136 @@
+.product-showcase {
+  display: grid;
+  grid-template-columns: minmax(0, .9fr) minmax(420px, 1.1fr);
+  gap: 48px;
+  align-items: center;
+  min-height: 560px;
+  padding: 64px 4vw;
+  overflow: hidden;
+  border-bottom: 1px solid var(--line);
+  background: #fff;
+}
+
+.product-showcase__copy {
+  max-width: 720px;
+}
+
+.product-showcase h1 {
+  margin: 0 0 18px;
+  color: var(--ink);
+  font-size: clamp(38px, 5vw, 62px);
+  line-height: 1.05;
+  letter-spacing: 0;
+}
+
+.product-showcase__copy > p:not(.eyebrow) {
+  color: var(--muted);
+  font-size: 18px;
+}
+
+.product-showcase__media {
+  min-width: 0;
+}
+
+.product-showcase__media img {
+  width: 100%;
+  height: auto;
+  max-height: 500px;
+  object-fit: contain;
+}
+
+.product-card {
+  overflow: hidden;
+}
+
+.product-card__image,
+.product-overview-card__image {
+  display: block;
+  background: #fff;
+}
+
+.product-card__image {
+  margin: -26px -26px 22px;
+  border-bottom: 1px solid var(--line);
+}
+
+.product-card__image img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: contain;
+}
+
+.product-overview-card {
+  overflow: hidden;
+  padding-top: 0;
+}
+
+.product-overview-card__image {
+  margin: 0 -24px 22px;
+  border-bottom: 1px solid var(--line);
+}
+
+.product-overview-card__image img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: contain;
+}
+
+@media (max-width: 900px) {
+  .product-showcase {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    min-height: auto;
+    padding-top: 48px;
+  }
+
+  .product-showcase__media img {
+    max-height: 420px;
+  }
+}
+
+@media (max-width: 620px) {
+  .home-hero {
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+    align-items: stretch;
+  }
+
+  .home-hero > img {
+    position: relative;
+    inset: auto;
+    order: 0;
+    width: 100%;
+    height: auto;
+    max-height: 330px;
+    object-fit: contain;
+  }
+
+  .home-hero__overlay {
+    display: none;
+  }
+
+  .home-hero__content {
+    order: 1;
+    width: 100%;
+    padding: 28px 5vw 96px;
+  }
+
+  .product-showcase {
+    padding: 40px 5vw 46px;
+  }
+
+  .product-showcase h1 {
+    font-size: 36px;
+  }
+
+  .product-showcase__copy > p:not(.eyebrow) {
+    font-size: 16px;
+  }
+
+  .product-card__image {
+    margin: -26px -26px 20px;
+  }
+}
